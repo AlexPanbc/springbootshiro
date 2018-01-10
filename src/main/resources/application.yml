@@ -1,0 +1,2 @@
+roles:
+      list: ["client:user","aaa:user","admin:user"]
