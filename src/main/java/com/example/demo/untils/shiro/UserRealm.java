@@ -10,12 +10,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 
 /**
- * Created by panbingcan on 2018/1/8.
+ * Created by Alex on 2018/1/8.
  */
 @Component
 public class UserRealm extends AuthorizingRealm {

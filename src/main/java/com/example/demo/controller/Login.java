@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * Created by panbingcan on 2018/1/10.
+ * Created by Alex on 2018/1/10.
  * 权限验证必须 继承AbstractController
  */
 @RequestMapping("/login")
